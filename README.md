@@ -16,4 +16,7 @@ Also it's support graphics formats
 - pbr
 - brs
 
-Program writed on .Net Framework 3.5 and support Windows XP.
+Program wrote on .Net Framework 3.5 and support Windows XP.
+
+![alt text](https://github.com/supinrus/HugoResourceViewer/blob/main/tmp/hugoview.PNG?raw=true)
+
