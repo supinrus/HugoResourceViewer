@@ -4,7 +4,7 @@ MS-DOS
 - Hugo 3
 - Hugo 4
 - Hugo 5
-all Windows ITERES and BIGFILE archives.
+And all Windows ITERES and BIGFILE archives.
 Also it's support graphics formats
 - cgf
 - lzp
