@@ -6,6 +6,7 @@ MS-DOS
 - Hugo 5
 
 And all Windows ITERES and BIGFILE archives.
+
 Also it's support graphics formats
 - cgf
 - lzp
@@ -15,4 +16,4 @@ Also it's support graphics formats
 - pbr
 - brs
 
-Program writed on .Net Framework 3.5 and support Windows XP
+Program writed on .Net Framework 3.5 and support Windows XP.
