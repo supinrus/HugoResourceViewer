@@ -1,0 +1,8 @@
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Hugo Viewer\Hugo Viewer\bin\Release\Hugo Viewer.exe
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Hugo Viewer\Hugo Viewer\bin\Release\Hugo Viewer.pdb
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Hugo Viewer\Hugo Viewer\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Hugo Viewer\Hugo Viewer\obj\Release\Hugo_Viewer.Form1.resources
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Hugo Viewer\Hugo Viewer\obj\Release\Hugo_Viewer.Properties.Resources.resources
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Hugo Viewer\Hugo Viewer\obj\Release\Hugo Viewer.csproj.GenerateResource.Cache
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Hugo Viewer\Hugo Viewer\obj\Release\Hugo Viewer.exe
+C:\Documents and Settings\Администратор\Мои документы\Visual Studio 2008\Projects\Hugo Viewer\Hugo Viewer\obj\Release\Hugo Viewer.pdb
