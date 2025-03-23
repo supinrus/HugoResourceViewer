@@ -20,3 +20,10 @@ Program wrote on .Net Framework 3.5 and support Windows XP.
 
 ![alt text](https://github.com/supinrus/HugoResourceViewer/blob/main/tmp/hugoview.PNG?raw=true)
 
+Running on linux
+
+```shell
+sudo apt install winetricks -y
+winetricks dotnet35
+wine HugoViewer.exe
+```
